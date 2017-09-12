@@ -39,4 +39,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Having trouble with these Pages, or want to provide feedback? Email at contact@akaruilabs.com 
+Having trouble with these pages, or want to provide feedback? Email at contact@akaruilabs.com 
