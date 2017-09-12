@@ -7,6 +7,8 @@ On this page you will find links to all pages related to Work Policies, Benefits
 ### [Vacation and Leave Policy](http://pages.akaruilabs.com/vacation)
 ### [List of Holidays](http://pages.akaruilabs.com/holidays)
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 ## Suggesting Updates
 
 Opening a PR for suggestions. Find below few helpful Markdown formatting tips:
