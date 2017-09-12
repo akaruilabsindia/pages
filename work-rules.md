@@ -34,16 +34,16 @@ Employees being subject to or witnessing any of aforementioned violations are re
 ## ACTION
 During investigation of charges against employees they can expect one or several of, but not limited to, following actions:
 
-Employees have the right to present their case and view-point
-Employees have the right to a speedy investigation
-Employees may be suspended from work during the investigation, during which time they are eligible for half of their daily wages
-Suspended employees may be required to visit their workplace for discussions, meetings, and decisions related to the violations at pre-notified times
+- Employees have the right to present their case and view-point
+- Employees have the right to a speedy investigation
+- Employees may be suspended from work during the investigation, during which time they are eligible for half of their daily wages
+- Suspended employees may be required to visit their workplace for discussions, meetings, and decisions related to the violations at pre-notified times
 
 If it is found to the satisfaction of their manager/supervisor that employees have violated Conduct and Work Rules Policy, disciplinary action may be taken against them which may include one or several of, but not limited to,  following actions:
 
-Official reprimand
-Instructions to issue formal apology to victim(s)
-Termination of services
+- Official reprimand
+- Instructions to issue formal apology to victim(s)
+- Termination of services
 
 If an employee’s service is terminated for violation of Conduct and Work Rules Policy, they are not eligible for additional month’s salary
 
