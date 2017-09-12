@@ -8,18 +8,18 @@ This policy identifies the respective responsibilities of the Company and its em
 ## PROCEDURES
 Employees have the right to conduct their work without disorderly or undue interference from other employees. The Company prohibits employees from violating this right of their co-workers.
 The Company encourages a congenial work environment of respect and professionalism. Therefore, the Company prohibits employees from harming or threatening to harm other employees, clients, vendors, visitors or property belonging to any of these parties. This prohibition includes but is not limited to acts such as:
-* Physically harming others
-* Verbally abusing others
-* Sexually harassing others
-* Using intimidation tactics and making threats
-* Sabotaging another's work
-* Stalking others
-* Making malicious, false and harmful statements about others
-* Publicly disclosing another's private information
-* Verbal and physical harassment
-* Act of bullying
-* Extortion
-* Blackmailing
+- Physically harming others
+- Verbally abusing others
+- Sexually harassing others
+- Using intimidation tactics and making threats
+- Sabotaging another's work
+- Stalking others
+- Making malicious, false and harmful statements about others
+- Publicly disclosing another's private information
+- Verbal and physical harassment
+- Act of bullying
+- Extortion
+- Blackmailing
 
 ## WORK AREA PROTECTION
 Employees are responsible for assuring the security and secrecy of Company and its clients’/customers’ confidential/proprietary material in their possession and similarly maintaining the security of the Company-provided equipment. Employees concerned for the security of their work area, must inform their manager/supervisor of such concerns.
