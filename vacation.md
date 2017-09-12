@@ -6,12 +6,12 @@ Paid leave for Sickness/Medical Issues/Family Tragedy (blood relation<sup>3</sup
 
 Paid Leave for Marriage: **15 days**
 
-For non-casual leaves or if you run out of casual leave, 2 weeks notice is advised and a minimum **1 week** (7 full days from leave start day) notice is required. Else it will be treated as casual leave.
+For non-casual leaves, 2 weeks notice is advised and a minimum **1 week** (7 full days from leave start date) notice is required. Else it will be treated as casual leave.
 
 
 ## Terms
 
-1. Casual Leave: Leave taken without giving due notice
+1. Casual Leave: Leave taken without giving due notice of minimum 1 week from leave start date
 2. Casual Leave are a part (subset) of Regular Leave 
 3. Blood Relation: Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
 
