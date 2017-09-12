@@ -2,14 +2,16 @@
 
 On this page you will find links to all pages related to Work Policies, Benefits, Surveys, Feedback/Complaints, etc.
 
-## Pages
-### [Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules)
-### [Vacation and Leave Policy](http://pages.akaruilabs.com/vacation)
-### [List of Holidays](http://pages.akaruilabs.com/holidays)
-### [Leave / Vacation Form](https://docs.google.com/forms/d/e/1FAIpQLSfDNYQl0xGu5CQAb8-uFp0NDOr9d9OnlfrH3oJZ3cyHp9KS_A/viewform?usp=sf_link)
-### [Complaint and Feedback Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?usp=sf_link)
+### Pages
+#### [Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules)
+#### [Vacation and Leave Policy](http://pages.akaruilabs.com/vacation)
+#### [List of Holidays](http://pages.akaruilabs.com/holidays)
 
-## Suggesting Updates
+### Forms
+#### [Leave / Vacation Form](https://docs.google.com/forms/d/e/1FAIpQLSfDNYQl0xGu5CQAb8-uFp0NDOr9d9OnlfrH3oJZ3cyHp9KS_A/viewform?usp=sf_link)
+#### [Complaint and Feedback Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?usp=sf_link)
+
+### Suggesting Updates
 
 Open a PR for suggestions. Find below few helpful Markdown formatting tips:
 
@@ -38,6 +40,6 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-## Support or Contact
+### Support or Contact
 
 Having trouble with these pages, or want to provide feedback? Email at contact@akaruilabs.com 
