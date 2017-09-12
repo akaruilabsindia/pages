@@ -1,4 +1,4 @@
-Total Regular Leaves in a year : *15 days*, out of which Casual Leaves<sup>1,2</sup> : *6 days*
+Total Regular Leaves in a year : **15 days**, out of which Casual Leaves<sup>1,2</sup> : **6 days**
 In addition to the 15 days of leave:
 Leave for Sickness<sup>2</sup>/Medical Issues<sup>2</sup>/Family Tragedy<sup>2</sup> (blood relation<sup>4</sup>) : *15 days*
 Leave for Marriage5 - 15 days
