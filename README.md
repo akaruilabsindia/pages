@@ -6,6 +6,7 @@ On this page you will find links to all pages related to Work Policies, Benefits
 ### [Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules)
 ### [Vacation and Leave Policy](http://pages.akaruilabs.com/vacation)
 ### [List of Holidays](http://pages.akaruilabs.com/holidays)
+### [Leave / Vacation Form](https://docs.google.com/forms/d/e/1FAIpQLSfDNYQl0xGu5CQAb8-uFp0NDOr9d9OnlfrH3oJZ3cyHp9KS_A/viewform?usp=sf_link)
 ### [Complaint and Feedback Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?usp=sf_link)
 
 ## Suggesting Updates
