@@ -1,6 +1,6 @@
 ## Welcome to Akruilabs Pages
 
-On this page you will find links to all pages related to Work Policies, Benefits, Surveys, Ombudsman, etc.
+On this page you will find links to all pages related to Work Policies, Benefits, Surveys, Feedback/Complaints, Ombudsman, etc.
 
 You can use the [editor on GitHub](https://github.com/akaruilabsindia/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
