@@ -4,7 +4,7 @@ On this page you will find links to all pages related to Work Policies, Benefits
 
 ## Suggesting Updates
 
-You may suggest updates to any of these pages by opening a PR. Find below some helpful Markdown formatting tips:
+Opening a PR for suggestions. Find below few helpful Markdown formatting tips:
 
 ### Markdown
 
