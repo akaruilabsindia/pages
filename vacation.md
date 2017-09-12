@@ -11,16 +11,16 @@ For non-casual leaves or if you run out of casual leave, 2 weeks notice is advis
 
 ## Terms
 
-1. Casual Leave : Leave taken without giving due notice
+1. Casual Leave: Leave taken without giving due notice
 2. Casual Leave are a part (subset) of Regular Leave 
-3. Blood Relation : Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
+3. Blood Relation: Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
 
 
 ## Supporting Documentation
 
 Sickness/Medical issues: Medical prescription and supporting documents (Pathology reports, hospital discharge receipt, other verifiable supporting documents). Document must be submitted within 15 days of joining back at work.
 
-Family Tragedy: Documents that clearly establish blood relation 4 with the deceased, and Death certificate of deceased. Document must be submitted within 30 days of joining back at work.
+Family Tragedy: Documents that clearly establish blood relation with the deceased, and Death certificate of deceased. Document must be submitted within 30 days of joining back at work.
 
 Marriage: Only if asked
 
