@@ -11,9 +11,9 @@ For non-casual leaves or if you run out of casual leave, 2 weeks notice is advis
 
 ## Terms
 
-- 1 Casual Leave : Leave taken without giving due notice
-- 2 Casual Leave are a part (subset) of Regular Leave 
-- 3 Blood Relation : Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
+1 Casual Leave : Leave taken without giving due notice
+2 Casual Leave are a part (subset) of Regular Leave 
+3 Blood Relation : Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
 
 
 ## Supporting Documentation
