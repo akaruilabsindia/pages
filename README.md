@@ -3,10 +3,10 @@
 On this page you will find links to all pages related to Work Policies, Benefits, Surveys, Feedback/Complaints, Ombudsman, etc.
 
 ## Pages
-### [Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules){:target="_blank"}
-### [Vacation and Leave Policy](http://pages.akaruilabs.com/vacation){:target="_blank"}
-### [List of Holidays](http://pages.akaruilabs.com/holidays){:target="_blank"}
-### [Grievance and Suggestions Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?usp=sf_link){:target="_blank"}
+### [Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules)
+### [Vacation and Leave Policy](http://pages.akaruilabs.com/vacation)
+### [List of Holidays](http://pages.akaruilabs.com/holidays)
+### [Grievance and Suggestions Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?usp=sf_link)
 
 ## Suggesting Updates
 
