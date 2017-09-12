@@ -15,7 +15,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 
 Open a PR for suggestions. Find below few helpful Markdown formatting tips:
 
-### Markdown
+#### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
