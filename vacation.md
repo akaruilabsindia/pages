@@ -2,7 +2,7 @@
 Total Regular Paid Leaves in a year: **15 days**, out of which Casual Paid Leaves<sup>1,2</sup>: **6 days**
 
 In addition to the 15 days of leave:
-Paid leave for Sickness/Medical Issues/Family Tragedy (blood relation<sup>4</sup>): **15 days**
+Paid leave for Sickness/Medical Issues/Family Tragedy (blood relation<sup>3</sup>): **15 days**
 
 Paid Leave for Marriage: **15 days**
 
@@ -11,9 +11,9 @@ For non-casual leaves or if you run out of casual leave, 2 weeks notice is advis
 
 ## Terms
 
-1 Casual Leave : Leave taken without giving due notice
-2 Casual Leave are a part (subset) of Regular Leave 
-4 Blood Relation : Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
+- 1 Casual Leave : Leave taken without giving due notice
+- 2 Casual Leave are a part (subset) of Regular Leave 
+- 3 Blood Relation : Parents, siblings, spouse, spouse parents, spouse siblings, children, grandparents
 
 
 ## Supporting Documentation
