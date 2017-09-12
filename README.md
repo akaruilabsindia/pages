@@ -11,6 +11,9 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 #### [Leave / Vacation Form](https://docs.google.com/forms/d/e/1FAIpQLSfDNYQl0xGu5CQAb8-uFp0NDOr9d9OnlfrH3oJZ3cyHp9KS_A/viewform?usp=sf_link)
 #### [Complaint and Feedback Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSe1kiJDX5qmFC3TPXI62tLwR4xAXP9rb5cPRHReHzmtWQV10A/viewform?usp=sf_link)
 
+### Useful Links
+#### [Work Email](https://mail.akaruilabs.com)
+
 ### Suggesting Updates
 
 Open a PR for suggestions. Find below few helpful Markdown formatting tips:
