@@ -2,6 +2,9 @@
 
 On this page you will find links to all pages related to Work Policies, Benefits, Surveys, Feedback/Complaints, Ombudsman, etc.
 
+## Pages
+[Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules)
+
 ## Suggesting Updates
 
 Opening a PR for suggestions. Find below few helpful Markdown formatting tips:
