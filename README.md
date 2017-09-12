@@ -1,4 +1,4 @@
-## Welcome to Akruilabs Pages
+## Welcome to Akaruilabs Pages
 
 On this page you will find links to all pages related to Work Policies, Benefits, Surveys, Feedback/Complaints, Ombudsman, etc.
 
