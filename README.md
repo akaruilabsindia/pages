@@ -37,6 +37,6 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-### Support or Contact
+## Support or Contact
 
 Having trouble with these pages, or want to provide feedback? Email at contact@akaruilabs.com 
