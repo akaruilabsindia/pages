@@ -4,6 +4,7 @@ On this page you will find links to all pages related to Work Policies, Benefits
 
 ## Pages
 [Conduct and Work Rules Policy](http://pages.akaruilabs.com/work-rules)
+[Vacation and Leave Policy](http://pages.akaruilabs.com/vacation)
 
 ## Suggesting Updates
 
