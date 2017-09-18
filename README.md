@@ -18,7 +18,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 
 ### Suggesting Updates
 
-Open a PR for suggestions. Find below few helpful Markdown formatting tips:
+Open a PR. Find below few helpful Markdown formatting tips:
 
 #### Markdown
 
