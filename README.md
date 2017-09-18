@@ -14,7 +14,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 ### Useful Links
 #### [Work Email](https://mail.akaruilabs.com)
 #### [Slack](https://akaruilabs.slack.com)
-#### [Quick Meeting](https://meet.google.com)
+#### [For Quick Meeting](https://meet.google.com)
 
 ### Suggesting Updates
 
