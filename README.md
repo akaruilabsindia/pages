@@ -18,7 +18,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 
 ### Helpful Tools
 |Name    |URL         |Remarks|
--------------------------------
+|--------|------------|-------|
 |RescueTime|https://rescuetime.com  |Productivity|
 ### Suggesting Updates
 
