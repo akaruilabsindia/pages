@@ -16,6 +16,10 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 #### [Slack](https://akaruilabs.slack.com)
 #### [For Quick Meeting](https://meet.google.com)
 
+### Helpful Tools
+|Name    |URL         |Remarks|
+-------------------------------
+|RescueTime|https://rescuetime.com  |Productivity|
 ### Suggesting Updates
 
 Open a PR. Find below few helpful Markdown formatting tips:
