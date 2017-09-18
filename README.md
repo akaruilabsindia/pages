@@ -21,8 +21,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 Open a PR. Find below few helpful Markdown formatting tips:
 
 #### Suggesting Updates Anonymously
-##### [Use Gitmask](http://www.gitmask.com)
-##### Use [This](https://github.com/chr15m/gitnonymous) over [Tor](https://www.torproject.org/download/download-easy.html.en)
+##### Use [Gitmask](http://www.gitmask.com) or use [This](https://github.com/chr15m/gitnonymous) over [Tor](https://www.torproject.org/download/download-easy.html.en)
 #### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
