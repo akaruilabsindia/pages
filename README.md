@@ -16,10 +16,12 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 #### [Slack](https://akaruilabs.slack.com)
 #### [For Quick Meeting](https://meet.google.com)
 
-### Helpful Tools
+### Helpful Tools Suggestions
 |Name    |URL         |Remarks|
 |--------|------------|-------|
 |RescueTime|https://rescuetime.com  |Productivity|
+|Evernote|https://evernote.com |Productivity|
+|Dynalist|https://dynalist.io|Outlining|
 
 ### Suggesting Updates
 
