@@ -20,7 +20,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 |Name    |URL         |Remarks|
 |--------|------------|-------|
 |RescueTime|https://rescuetime.com  |Productivity|
-|RescueTime|https://rescuetime.com  |Productivity|
+
 ### Suggesting Updates
 
 Open a PR. Find below few helpful Markdown formatting tips:
