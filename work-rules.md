@@ -23,7 +23,7 @@ The Company encourages a congenial work environment of respect and professionali
 - Blackmailing
 
 ## WORK AREA PROTECTION
-Employees are responsible for assuring the security and secrecy of Company and its clients’/customers’ confidential/proprietary material in their possession and similarly maintaining the security of the Company-provided equipment. Employees concerned for the security of their work area, must inform their manager/supervisor of such concerns.
+Employees are responsible for assuring the security and secrecy of Company and its clients’/customers’ confidential/proprietary material in their possession and similarly maintaining the security of the Company-provided equipment. Employees concerned for the security of their work area must inform their manager/supervisor of such concerns.
 ## ROMANCE IN THE WORKPLACE
 In order to minimize the risk of conflicts of interest and promote fairness, Company maintains the following policy with respect to romance in the workplace:
 
