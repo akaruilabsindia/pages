@@ -1,5 +1,5 @@
 # Conduct and Work Rules Policy
-Akaruilabs India Private Limited, henceforth referenced as “Company” in this document is responsible for providing a safe and secure workplace and strives to ensure that all individuals associated with the company are treated in a respectful and fair manner. Though it is not possible to list all forms of behavior that are considered unacceptable in the workplace, the following are examples of behavior that would be considered infractions of Company’s rules of conduct.
+Akaruilabs India Private Limited, hereafter referenced to as “Company” in this document is responsible for providing a safe and secure workplace and strives to ensure that all individuals associated with the company are treated in a respectful and fair manner. Though it is not possible to list all forms of behavior that are considered unacceptable in the workplace, the following are examples of behavior that would be considered infractions of Company’s rules of conduct.
 Such behavior may result in disciplinary action, up to and including termination of employment.
 ## POLICY
 It is this Company’s policy that employees maintain a working environment that encourages mutual respect, promotes civil and congenial relationships among employees and is free from all forms of harassment and violence.
