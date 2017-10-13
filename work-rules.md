@@ -17,6 +17,7 @@ The Company encourages a congenial work environment of respect and professionali
 - Making malicious, false and harmful statements about others
 - Publicly disclosing another's private information
 - Verbal and physical harassment
+- Commenting on another's gender, race, religion, caste, physical features, or any other markers that makes them uncomfortable 
 - Act of bullying
 - Extortion
 - Blackmailing
@@ -28,7 +29,7 @@ In order to minimize the risk of conflicts of interest and promote fairness, Com
 
 > “No person in a management or supervisory position shall have a romantic or dating relationship with an employee whom he or she directly supervises or whose terms or conditions of employment he or she may influence (examples of terms or conditions of employment include promotion, termination, discipline and compensation). “
 
-When it becomes clear that a romance is blossoming, and the employee(s) is/are in violation of the policy described above, the employee(s) concerned is/are required to intimate the management about the relationship without further delay, so that steps can be taken to remove them from the supervisor-supervisee relationship.
+When it becomes clear that a romance is blossoming, and the employee(s) is/are in violation of the policy described above, the employee(s) concerned is/are required to intimate management about the relationship without further delay, so that steps can be taken to remove them from the supervisor-supervisee relationship.
 ## EXPECTATION FROM EMPLOYEES
 Employees being subject to or witnessing any of aforementioned violations are required to intimate their manager/supervisor of such acts without delay. Even when an employee is in doubt about the applicability of any of aforementioned violations, they are encouraged to contact their manager/supervisor without delay. 
 ## ACTION
