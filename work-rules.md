@@ -17,7 +17,7 @@ The Company encourages a congenial work environment of respect and professionali
 - Making malicious, false and harmful statements about others
 - Publicly disclosing another's private information
 - Verbal and physical harassment
-- Commenting on another's gender, race, religion, caste, physical features, or any other markers that makes them uncomfortable 
+- Commenting on another's gender, race, religion, caste, physical features, or any other markers that may make them uncomfortable 
 - Act of bullying
 - Extortion
 - Blackmailing
