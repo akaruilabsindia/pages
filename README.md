@@ -22,7 +22,8 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 |--------|------------|-------|
 |RescueTime|https://rescuetime.com  |Productivity|
 |Evernote|https://evernote.com |Productivity|
-|Dynalist|https://dynalist.io|Outlining|
+|Dynalist|https://dynalist.io |Outlining|
+|VisualCV|https://www.visualcv.com |Resume Builder|
 
 ### Suggesting Updates
 
