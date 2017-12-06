@@ -14,7 +14,7 @@ For planned (non-casual) leaves, 2 weeks notice is advised and a minimum **1 wee
 
 ## Supporting Documentation
 
-Sickness/Medical issues: Medical prescription and supporting documents (Pathology reports, hospital discharge receipt, other verifiable supporting documents). Document must be submitted within 15 days of joining back at work.
+Sickness/Medical issues: Medical prescription and supporting documents (Pathology reports, hospital discharge receipt, other verifiable supporting documents). Document must be submitted within 3 days of joining back at work.
 
 Family Tragedy: Documents that clearly establish blood relation with the deceased, and Death certificate of deceased. Document must be submitted within 30 days of joining back at work.
 
