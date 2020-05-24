@@ -18,6 +18,7 @@ On this page you will find links to pages and forms concerning Work Policies, Be
 #### [Slack](https://akaruilabs.slack.com)
 #### [For Quick Meeting](https://meet.google.com)
 #### [Screen video recording](https://www.useloom.com)
+#### [Digital Whiteboard](https://miro.com)
 
 ### Helpful Tools Suggestions
 |Name    |URL         |Remarks|
